@@ -11,7 +11,7 @@
     ![Outcomes_vs_Goals.png](Kickstarter-Challenge)
 ### Analysis of Outcomes Based on Goals
     The second for of analysis was the Outcomes Based on Goals. This analysis counts how many fundraiswers had the outcome of either Successful, Failed and Canceled in certain ranges by Dollar amount. All data is based on the subcategory Plays.
-    ![Theater_Outcomes_vs_Launch.png](Kickstarter-Challenge)
+    Theater_Outcomes_vs_Launch.png
 ### Challenges and Difficulties Encountered
 
 ## Results
